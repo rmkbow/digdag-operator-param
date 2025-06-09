@@ -5,10 +5,10 @@ plugins {
     id "com.diffplug.spotless" version '5.12.4'
 }
 
-group = 'pro.civitaspo'
+group = 'com.github.rmkbow'
 version = '0.0.3'
 
-def digdagVersion = '0.10.0'
+def digdagVersion = '0.10.5.1'
 def scalaSemanticVersion = "2.13.5"
 def depScalaVersion = "2.13"
 
